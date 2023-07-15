@@ -1,0 +1,5 @@
+﻿  Hypotekarna kalkulacka.cpp
+C:\Users\Roman\source\repos\Hypotekarna kalkulacka\Hypotekarna kalkulacka\Hypotekarna kalkulacka.cpp(9,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Roman\source\repos\Hypotekarna kalkulacka\Hypotekarna kalkulacka\Hypotekarna kalkulacka.cpp(18,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Roman\source\repos\Hypotekarna kalkulacka\Hypotekarna kalkulacka\Hypotekarna kalkulacka.cpp(19,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Hypotekarna kalkulacka.vcxproj -> C:\Users\Roman\source\repos\Hypotekarna kalkulacka\x64\Debug\Hypotekarna kalkulacka.exe
